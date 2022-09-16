@@ -2,7 +2,7 @@
 - 👀 I’m interested in extracting meaningful insights from your data.
 - 🌱 I’m currently learning Python for data science.
 - 💞️ I’m looking to collaborate on projects related to consumer behavior, online business optimisation.
-- 📫 Let's connect: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/sandramorkuniene) .
+- 📫 Let's connect: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sandramorkuniene) .
 
 
 <!---
