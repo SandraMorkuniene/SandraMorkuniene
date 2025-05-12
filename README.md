@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandraMorkuniene
 - 👀 I’m interested in extracting meaningful insights from the data.
-- 🌱 I’m currently learning Python for data science.
-- 💞️ I’m looking for collaborations on projects related to consumer behavior, online business products optimisation.
+- 🌱 I’m currently learning Python for data science and AI engineering.
+- 💞️ I’m looking for collaborations on projects related to consumer behavior, online business products, business processes optimisation.
 - 📫 Let's connect: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sandramorkuniene) .
 
 
